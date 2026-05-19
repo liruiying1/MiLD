@@ -1,0 +1,5 @@
+# Python 3.8+ recommended. Pin exact versions in your paper supplement if needed.
+numpy>=1.21.0,<2.0.0
+scipy>=1.7.0
+matplotlib>=3.5.0
+torch>=1.12.0
