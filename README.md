@@ -1,6 +1,6 @@
 # MiLD — Synthetic unmixing (`code_MiLD`)
 
-Minimal code for reproducing the **synthetic single-run** experiment (fixed loss weights, VCA-initialized decoders, `R1forMTHU2605110`).
+Minimal code for reproducing the **synthetic single-run** experiment (fixed loss weights, VCA-initialized decoders, `R1forMTHU`).
 
 ## Layout
 
